@@ -1,0 +1,17 @@
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Gerenciador de Arquivos.exe
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Gerenciador de Arquivos.deps.json
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Gerenciador de Arquivos.runtimeconfig.json
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Gerenciador de Arquivos.runtimeconfig.dev.json
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Gerenciador de Arquivos.dll
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Gerenciador de Arquivos.pdb
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.csproj.AssemblyReference.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador_de_Arquivos.Form1.resources
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.csproj.GenerateResource.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.AssemblyInfo.cs
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.dll
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.pdb
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador de Arquivos.genruntimeconfig.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador_de_Arquivos.Properties.Resources.resources

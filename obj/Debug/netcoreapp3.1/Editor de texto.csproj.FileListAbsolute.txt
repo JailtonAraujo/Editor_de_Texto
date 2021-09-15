@@ -1,0 +1,34 @@
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Editor de texto.exe
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Editor de texto.deps.json
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Editor de texto.runtimeconfig.json
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Editor de texto.runtimeconfig.dev.json
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Editor de texto.dll
+C:\Users\jailt\Documents\Gerenciador de Arquivos\bin\Debug\netcoreapp3.1\Editor de texto.pdb
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.csproj.AssemblyReference.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador_de_Arquivos.Form1.resources
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Gerenciador_de_Arquivos.Properties.Resources.resources
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.csproj.GenerateResource.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.AssemblyInfo.cs
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.dll
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.pdb
+C:\Users\jailt\Documents\Gerenciador de Arquivos\obj\Debug\netcoreapp3.1\Editor de texto.genruntimeconfig.cache
+C:\Users\jailt\Documents\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de texto.exe
+C:\Users\jailt\Documents\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de texto.deps.json
+C:\Users\jailt\Documents\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de texto.runtimeconfig.json
+C:\Users\jailt\Documents\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de texto.runtimeconfig.dev.json
+C:\Users\jailt\Documents\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de texto.dll
+C:\Users\jailt\Documents\Editor de Texto\bin\Debug\netcoreapp3.1\Editor de texto.pdb
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.csproj.AssemblyReference.cache
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Gerenciador_de_Arquivos.Form1.resources
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Gerenciador_de_Arquivos.Properties.Resources.resources
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.csproj.GenerateResource.cache
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.AssemblyInfo.cs
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.dll
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.pdb
+C:\Users\jailt\Documents\Editor de Texto\obj\Debug\netcoreapp3.1\Editor de texto.genruntimeconfig.cache
