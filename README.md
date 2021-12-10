@@ -1,2 +1,2 @@
-# Editor_de_Texto_Simples
+# Editor_de_Texto
  Linguagem C#
